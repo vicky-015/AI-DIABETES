@@ -14,9 +14,6 @@ PREREQUISITIES :
 Python 3.x
 Libraries: NumPy, Pandas, Scikit-Learn
 
-CONTACT :
-      If you have any doubts please contact us through mail : vigneshvicky15102003@gmail.com
-
 LICENSE :
 This project is licensed under the MIT License - see the LICENSE file for details.
 
